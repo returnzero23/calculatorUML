@@ -13,3 +13,6 @@ StarUML[http://staruml.io/]
 
 ### component diagram
 - unitconvertor ![Unitconvertor](img/UnitConvertor.png)
+
+### class diagram
+- unitconvertor ![Unitconvertor](img/UnitConvertorClassDiagram.png)
