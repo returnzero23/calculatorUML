@@ -15,4 +15,4 @@ StarUML[http://staruml.io/]
 - unitconvertor ![Unitconvertor](img/UnitConvertor.png)
 
 ### class diagram
-- unitconvertor ![Unitconvertor](img/UnitConvertorClassDiagram.png)
+- unitconvertor[WIP] ![Unitconvertor](img/UnitConvertorClassDiagram.png)
