@@ -16,4 +16,4 @@ StarUML[http://staruml.io/]
 
 ### class diagram
 - unitconvertor ![Unitconvertor](img/UnitConvertorClassDiagram.png)
-- datecalculator[WIP]
+- datecalculator ![DateCalculator](img/DateConvertor.png)
